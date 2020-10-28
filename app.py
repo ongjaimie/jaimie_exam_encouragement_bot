@@ -29,7 +29,7 @@ while True:
       counter += 1
       if each_word == "depressed":
       feelings_list.append("depressed")
-      encouragement_list.append("don't feel too sad! study hard and you'll do just fine!")
+      encouragement_list.append("cheer up! don't feel too sad! study hard and you'll do just fine!")
       counter += 1
       if each_word == "confident":
       feelings_list.append("confident")

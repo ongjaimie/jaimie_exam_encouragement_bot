@@ -43,6 +43,10 @@ while True:
       feelings_list.append("stressed")
       encouragement_list.append("studies and results are not everything. there is no need to feel stressed, as long as you know that you have done your best, you will do fine!")
       counter += 1
+      if each_word == "nervous":
+      feelings_list.append("nervous")
+      encouragement_list.append("all's good, i'm sure you have prepared well.")
+      counter += 1
 
   if counter == 0:
     
